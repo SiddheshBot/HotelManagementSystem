@@ -1,6 +1,6 @@
 
 
-ThThis website is designed for a hotel's internal operations. It allows the receptionist to handle bookings and offers support and utilities for guests. Additionally, it manages everything from housekeeping to the restaurant, providing a comprehensive range of solutions.
+This website is designed for a hotel's internal operations. It allows the receptionist to handle bookings and offers support and utilities for guests. Additionally, it manages everything from housekeeping to the restaurant, providing a comprehensive range of solutions.
 
 ## Requirements
 For development you will need Node.js and packages like nodemon, express, express-session, pug , my-sql , express-mysql-session , body-parser.
